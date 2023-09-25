@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"name": "cartoon-ease-of-implementation",
+=======
+	"name": "web-debris",
+>>>>>>> a46eba7a90c0d368fe7adb569f690df34f91c0c2
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
